@@ -1,1 +1,1 @@
-![from_assets](https://github.com/Lisnarde/Lisnarde/xxx/master/assets/baniere.png)
+![from_assets](baniere.png)
