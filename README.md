@@ -14,7 +14,7 @@
 
 ## Langages :
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cs,java,php,python,html,css,javascript" />
+    <img src="https://skillicons.dev/icons?i=c,cs,java,php,python,html,css,javascript,sqlite" />
 </p>
 
 ## Outils :
