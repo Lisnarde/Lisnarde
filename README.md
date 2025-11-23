@@ -7,8 +7,12 @@
 # À propos de moi
 
 ## Jeux vidéos favoris
-
-<img src="portal2.jpg" />
+<div>
+<img height=200 width=200 src="portal2.jpg" />
+<img height=200 width=200  src="awayout.jpg" />
+<img height=200 width=200 src="phasmo.jpg" />
+<img height=200 width=200 src="cryoffear.png" />
+</div>
 
 # Sur mon git, vous trouverez
 
