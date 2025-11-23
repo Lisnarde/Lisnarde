@@ -4,6 +4,12 @@
   
 </div>
 
+# À propos de moi
+
+## Jeux vidéos favoris
+
+<img src="portal2.jpg" />
+
 # Sur mon git, vous trouverez
 
 - Des projets liés à l'IUT
