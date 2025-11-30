@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![from_assets](baniereLisnarde.png)
+  <img width=800 src="baniereLisnarde.png" />
   
 </div>
 
