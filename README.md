@@ -4,16 +4,6 @@
   
 </div>
 
-# À propos de moi
-
-## Jeux vidéos favoris
-<div>
-<img height=200 width=200 src="portal2.jpg" />
-<img height=200 width=200  src="awayout.jpg" />
-<img height=200 width=200 src="phasmo.jpg" />
-<img height=200 width=200 src="cryoffear.png" />
-</div>
-
 # Sur mon git, vous trouverez
 
 - Des projets liés à l'IUT
@@ -36,3 +26,13 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,gitlab,github,discord" />
 </p>
+
+# À propos de moi
+
+## Jeux vidéos favoris
+<div>
+<img height=200 width=200 src="portal2.jpg" />
+<img height=200 width=200  src="awayout.jpg" />
+<img height=200 width=200 src="phasmo.jpg" />
+<img height=200 width=200 src="cryoffear.png" />
+</div>
