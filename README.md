@@ -19,7 +19,7 @@
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,react,express,bootstrap,laravel,prisma" /> </p>
 
 ### Outils & Environnements :
-<p align="center"> <img src="https://skillicons.dev/icons?i=linux,windows,bash,vim,vscodium,idea,visualstudio,gradle,bun" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=linux,windows,bash,vim,vscodium,idea,visualstudio,bots,arduino,gradle,bun,postman" /> </p>
 
 ### Création & Logiciels :
 <p align="center"> <img src="https://skillicons.dev/icons?i=godot,blender,androidstudio" /> </p>
