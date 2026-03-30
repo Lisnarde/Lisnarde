@@ -12,20 +12,20 @@
 
 # Compétences
 
-## Langages :
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cs,dotnet,java,php,python,html,css,javascript,sqlite" />
-</p>
+### Langages :
+<p align="center"> <img src="https://skillicons.dev/icons?i=c,cs,dotnet,java,python,php,ts,javascript,r" /> </p>
 
-## Outils :
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,windows,bash,vscodium,idea,vim,visualstudio,laravel,godot" />
-</p>
+### Développement web :
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,react,express,bootstrap,laravel,prisma" /> </p>
 
-## Partage :
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,gitlab,github,discord" />
-</p>
+### Outils & Environnements :
+<p align="center"> <img src="https://skillicons.dev/icons?i=linux,windows,bash,vim,vscodium,idea,visualstudio,gradle,bun" /> </p>
+
+### Création & Logiciels :
+<p align="center"> <img src="https://skillicons.dev/icons?i=godot,blender,androidstudio" /> </p>
+
+### Collaboration :
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,gitlab,discord,linkedin" /> </p>
 
 # À propos de moi
 
