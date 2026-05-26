@@ -16,10 +16,10 @@
 <p align="center"> <img src="https://skillicons.dev/icons?i=c,cs,dotnet,java,python,php,ts,javascript,r" /> </p>
 
 ### Développement web :
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,react,express,bootstrap,laravel,prisma" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,react,express,bootstrap,laravel,prisma,vite" /> </p>
 
 ### Outils & Environnements :
-<p align="center"> <img src="https://skillicons.dev/icons?i=linux,windows,bash,vim,vscodium,idea,visualstudio,bots,arduino,gradle,bun,postman" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=linux,windows,bash,vim,vscodium,idea,visualstudio,bots,arduino,gradle,bun,npm,postman" /> </p>
 
 ### Création & Logiciels :
 <p align="center"> <img src="https://skillicons.dev/icons?i=godot,blender,androidstudio" /> </p>
